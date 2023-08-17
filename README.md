@@ -8,3 +8,7 @@
 2. Think of another problem on your own. Create another flow chart for it as well.
 
 Once you've created the flow charts, add them to this `README` and push the changes.
+
+
+[Restaurant-2Diagram.drawio.pdf](https://github.com/fbw-p23-e05/flow-chart-rituparnadobey-dci/files/12369741/Restaurant-2Diagram.drawio.pdf)
+
